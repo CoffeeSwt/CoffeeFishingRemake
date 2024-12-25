@@ -1,0 +1,39 @@
+{
+    "ConfigVersion": "1",
+    "SuccessCatchMessage": "I caught some thing.",
+    "ChanceForYieldItem": 0.20000000298023225,
+    "YieldItems": [
+        {
+            "ItemType": "Mackerel",
+            "Weight": 30
+        },
+        {
+            "ItemType": "Carp",
+            "Weight": 30
+        },
+        {
+            "ItemType": "Sardines",
+            "Weight": 30
+        },
+        {
+            "ItemType": "Bitterlings",
+            "Weight": 30
+        },
+        {
+            "ItemType": "WalleyePollock",
+            "Weight": 30
+        },
+        {
+            "ItemType": "SteelheadTrout",
+            "Weight": 30
+        },
+        {
+            "ItemType": "Shrimp",
+            "Weight": 30
+        },
+        {
+            "ItemType": "rag",
+            "Weight": 5
+        }
+    ]
+}
